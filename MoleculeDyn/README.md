@@ -9,4 +9,4 @@ python main_md17.py     --output-dir 'models/md17/equiformer/se_l2/target@aspiri
 
 ```
 
-similar for other molecules follow the scripts in scripts/train/md17/equiformer/se_l2
+similar for other molecules follow the scripts in [scripts/train/md17/equiformer/se_l2](https://github.com/StefanosPert/Equivariant_Optimization_CR/tree/main/MoleculeDyn/scripts/train/md17/equiformer/se_l2)
